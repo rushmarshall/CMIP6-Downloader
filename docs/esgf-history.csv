@@ -1,0 +1,7 @@
+date,node,status,response_ms
+2026-04-09,LLNL (USA),online,737
+2026-04-09,DKRZ (Germany),online,1838
+2026-04-09,IPSL (France),offline,761
+2026-04-09,NCI (Australia),online,1931
+2026-04-09,CEDA (UK),offline,-1
+2026-04-09,CMCC (Italy),offline,631
