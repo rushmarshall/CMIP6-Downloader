@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cmip6-downloader"
+version = "1.0.0"
+description = "CMIP6 climate model data acquisition and processing toolkit"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.9"
+authors = [{name = "Sebastian R.O. Marshall", email = "xec3cr@virginia.edu"}]
+dependencies = ["numpy>=1.24", "requests>=2.31", "tqdm>=4.65", "pyyaml>=6.0"]
+
+[project.optional-dependencies]
+full = ["xarray>=2023.1", "netCDF4>=1.6", "matplotlib>=3.7"]
+dev = ["pytest>=7.0", "pytest-cov", "ruff"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
