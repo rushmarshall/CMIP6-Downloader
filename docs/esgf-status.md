@@ -1,15 +1,15 @@
 # ESGF Node Availability Status
 
-_Last checked: 2026-06-16 UTC_
+_Last checked: 2026-06-19 UTC_
 
 | Node | URL | Status | Response (ms) |
 |------|-----|--------|---------------|
-| LLNL (USA) | https://esgf-node.llnl.gov/thredds/catalog.html | 🟢 online | 2366 |
-| DKRZ (Germany) | https://esgf-data.dkrz.de/thredds/catalog.html | 🟢 online | 1597 |
-| IPSL (France) | https://esgf-node.ipsl.upmc.fr/thredds/catalog.html | 🔴 offline | 739 |
-| NCI (Australia) | https://esgf.nci.org.au/thredds/catalog.html | 🟢 online | 2223 |
+| LLNL (USA) | https://esgf-node.llnl.gov/thredds/catalog.html | 🔴 offline | — |
+| DKRZ (Germany) | https://esgf-data.dkrz.de/thredds/catalog.html | 🟢 online | 1563 |
+| IPSL (France) | https://esgf-node.ipsl.upmc.fr/thredds/catalog.html | 🔴 offline | 755 |
+| NCI (Australia) | https://esgf.nci.org.au/thredds/catalog.html | 🟢 online | 2926 |
 | CEDA (UK) | https://esgf-index1.ceda.ac.uk/thredds/catalog.html | 🔴 offline | — |
-| CMCC (Italy) | https://esgf-node.cmcc.it/thredds/catalog.html | 🔴 offline | 662 |
+| CMCC (Italy) | https://esgf-node.cmcc.it/thredds/catalog.html | 🔴 offline | 688 |
 
 ---
 
