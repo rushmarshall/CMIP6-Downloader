@@ -101,3 +101,9 @@ date,node,status,response_ms
 2026-07-18,NCI (Australia),online,2184
 2026-07-18,CEDA (UK),offline,-1
 2026-07-18,CMCC (Italy),offline,983
+2026-07-23,LLNL (USA),offline,-1
+2026-07-23,DKRZ (Germany),online,1764
+2026-07-23,IPSL (France),offline,903
+2026-07-23,NCI (Australia),online,1308
+2026-07-23,CEDA (UK),offline,-1
+2026-07-23,CMCC (Italy),offline,865
