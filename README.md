@@ -41,7 +41,7 @@ pip install cmip6-downloader
 Or from source:
 
 ```bash
-git clone https://github.com/rushmarshall/CMIP6-Downloader.git
+git clone https://github.com/sromarshall/CMIP6-Downloader.git
 cd CMIP6-Downloader
 pip install -e ".[dev]"
 ```
